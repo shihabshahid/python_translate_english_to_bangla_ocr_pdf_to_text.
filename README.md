@@ -1,0 +1,1 @@
+# python_translate_english_to_bangla_ocr_pdf_to_text.
